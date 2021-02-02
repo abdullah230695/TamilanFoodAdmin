@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TamilanFood Admin</string>
+    <string-array name="foodCategory">
+        <item>உணவு வகை</item>
+        <item>சைவம்</item>
+        <item>அசைவம்</item>
+        <item>குழம்பு</item>
+        <item>இதர வகைகள்</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013009027492",
+    "project_id": "shalla-tamilanfood-admin",
+    "storage_bucket": "shalla-tamilanfood-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013009027492:android:1c85adf15ead4e57403131",
+        "android_client_info": {
+          "package_name": "com.shalla.tamilanfoodadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013009027492-vbsmu6lv6a6mjrcf9m98h6u5dcm9nb7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNZj6yK35ELAo-Rv8Pdy-FJ49eMQ9ZPik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013009027492-vbsmu6lv6a6mjrcf9m98h6u5dcm9nb7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
